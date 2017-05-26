@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.4.16)  17 MAY 2017 18:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.4.16)  24 MAY 2017 19:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1067,31 +1067,20 @@ quanjiao) on input line 5.
 LaTeX Warning: No \author given.
 
 
-Overfull \hbox (24.84402pt too wide) in paragraph at lines 11--12
-\C70/rm/m/n/10.53937/8f Ç \C70/rm/m/n/10.53937/7a  \C70/rm/m/n/10.53937/4e - \
-C70/rm/m/n/10.53937/76 „ \C70/rm/m/n/10.53937/53 a \C70/rm/m/n/10.53937/98 ^^? 
-\C70/rm/m/n/10.53937/7f ^^S \C70/rm/m/n/10.53937/51 ² \C70/rm/m/n/10.53937/65 ö
- \C70/rm/m/n/10.53937/95 ô|\C70/rm/m/n/10.53937/ff ^^L| \C70/rm/m/n/10.53937/4e
- ; \C70/rm/m/n/10.53937/89  \C70/rm/m/n/10.53937/4f ^^? \C70/rm/m/n/10.53937/7
-5 ( \C70/rm/m/n/10.53937/52 ^^] \C70/rm/m/n/10.53937/59 Ë \C70/rm/m/n/10.53937/
-7f ^^S \C70/rm/m/n/10.53937/51 ² \C70/rm/m/n/10.53937/65 ö \C70/rm/m/n/10.53937
-/5e ö\OT1/cmr/m/n/10.53937 (sLoading)\C70/rm/m/n/10.53937/54 Œ \C70/rm/m/n/10.5
-3937/53 a \C70/rm/m/n/10.53937/98 ^^? \C70/rm/m/n/10.53937/53 ` \C70/rm/m/n/10.
-53937/6b Ô\OT1/cmr/m/n/10.53937 (sStalling)
- []
+LaTeX Warning: Citation `1' on page 1 undefined on input line 16.
 
 [1
 
 ]
 
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <10.53937> not available
-(Font)              size <10.95> substituted on input line 28.
+(Font)              size <10.95> substituted on input line 50.
 
 c:/Users/84338/Documents/GitHub/mathematics-group/Shenzheng_Cup/thesis/Thesis.t
-ex:30: Missing { inserted.
+ex:52: Missing { inserted.
 <to be read again> 
                    }
-l.30 æ’­æ”¾é˜¶æ®µå¹³å‡é€Ÿç‡: $v^{_}
+l.52 æ’­æ”¾é˜¶æ®µå¹³å‡é€Ÿç‡: $v^{_}
                                       $
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
@@ -1099,10 +1088,10 @@ so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
 c:/Users/84338/Documents/GitHub/mathematics-group/Shenzheng_Cup/thesis/Thesis.t
-ex:30: Missing } inserted.
+ex:52: Missing } inserted.
 <inserted text> 
                 }
-l.30 æ’­æ”¾é˜¶æ®µå¹³å‡é€Ÿç‡: $v^{_} $
+l.52 æ’­æ”¾é˜¶æ®µå¹³å‡é€Ÿç‡: $v^{_} $
                                        
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1110,18 +1099,36 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-[2] [3] (./Thesis.aux)
+[2]
+Overfull \hbox (15.12436pt too wide) in paragraph at lines 64--66
+ \OT1/cmr/bx/n/10.53937 2.[] \OT1/cmr/m/n/10.53937 TCP\C70/rm/m/n/10.53937/5b ¢
+ \C70/rm/m/n/10.53937/62 7 \C70/rm/m/n/10.53937/7a ï \C70/rm/m/n/10.53937/54 Œ 
+\C70/rm/m/n/10.53937/67 ^^M \C70/rm/m/n/10.53937/52 ¡ \C70/rm/m/n/10.53937/7a ï
+ \C70/rm/m/n/10.53937/76 „ \C70/rm/m/n/10.53937/7f ^^S \C70/rm/m/n/10.53937/51 
+² \C70/rm/m/n/10.53937/53 : \C70/rm/m/n/10.53937/59 ' \C70/rm/m/n/10.53937/5c ^
+^O \C70/rm/m/n/10.53937/80 ı \C70/rm/m/n/10.53937/59 ^^_ \C70/rm/m/n/10.53937/5
+b ¹\OT1/cmr/m/n/10.53937 TCP\C70/rm/m/n/10.53937/76 „ \C70/rm/m/n/10.53937/89 Æ
+ \C70/rm/m/n/10.53937/98 ‘ \C70/rm/m/n/10.53937/5e '|\C70/rm/m/n/10.53937/ff ^^
+L| \C70/rm/m/n/10.53937/80 ^^L \C70/rm/m/n/10.53937/4e ^^M \C70/rm/m/n/10.53937
+/4f ^^Z \C70/rm/m/n/10.53937/57 (\OT1/cmr/m/n/10.53937 TCP\C70/rm/m/n/10.53937/
+63 ¥
+ []
+
+[3] [4] (./Thesis.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41063pt have occurred.
 
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 13645 strings out of 493013
- 256798 string characters out of 6136993
- 281249 words of memory out of 5000000
- 16789 multiletter control sequences out of 15000+600000
- 50035 words of font info for 185 fonts, out of 8000000 for 9000
+ 13850 strings out of 493013
+ 259755 string characters out of 6136993
+ 279249 words of memory out of 5000000
+ 16946 multiletter control sequences out of 15000+600000
+ 52233 words of font info for 193 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,6n,56p,10503b,371s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/s
@@ -1130,18 +1137,18 @@ imhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS
 /WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei
 .ttf><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/font
 s/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WIND
-OWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc>
+OWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simhei.ttf>
 <c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/sim
-hei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/f
-onts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/W
+hei.ttf><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/f
+onts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simhei.ttf><c:/W
 INDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.t
-tf><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/
-simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOW
+tf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/
+simhei.ttf><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOW
 S/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c
-:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsu
-n.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fon
-ts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simhei.ttf><c:/WIN
-DOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc
+:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhe
+i.ttf><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fon
+ts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WIN
+DOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc
 ><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/si
 msun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/
 fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/
@@ -1154,26 +1161,30 @@ un.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fo
 nts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WI
 NDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.tt
 c><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/s
-imsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS
-/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:
-/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei
-.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/font
-s/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WIND
-OWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc>
-<c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/sim
+imsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS
+/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:
+/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun
+.ttc><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/font
+s/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WIND
+OWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf>
+<c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/sim
 sun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/f
 onts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/W
-INDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/texlive/2016/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2016/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmmi7.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
-.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/te
-xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
-Output written on Thesis.pdf (3 pages, 494504 bytes).
+INDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.t
+tc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/
+simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOW
+S/fonts/simsun.ttc><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texl
+ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2016/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2016/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2016/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsl10.pfb>
+Output written on Thesis.pdf (4 pages, 550007 bytes).
 PDF statistics:
- 540 PDF objects out of 1000 (max. 8388607)
- 353 compressed objects within 4 object streams
+ 580 PDF objects out of 1000 (max. 8388607)
+ 379 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 253 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 273 words of extra memory for PDF output out of 10000 (max. 10000000)
 
